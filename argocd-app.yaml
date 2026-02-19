@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: kustomize-installation
-    repoURL: https://github.com:datoma/argocd.git
+    repoURL: https://github.com/datoma/argocd.git
     targetRevision: main
   syncPolicy:
     automated: {}
